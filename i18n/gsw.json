@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"stalepages": "Alti Syte",
+	"stalepages-desc": "Legt e [[Special:Stalepages|Lischt vu Syte]] aa, wu schon e Rung nimi dra gschafft woren isch",
+	"stalepages-summary": "Des isch e Lischt vu dr Syte, wu {{PLURAL:$1|in dr letschte 24 Stunde|in dr letschte $1 Täg}} nimi dra gschafft woren isch."
+}

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Sanbec"
+		]
+	},
+	"stalepages": "Páginas abandonadas",
+	"stalepages-desc": "Genera una [[Special:Stalepages|lista de páginas]] que no han sido editadas recientemente",
+	"stalepages-summary": "Esta es una lista de páginas que no han sido editadas en los últimos $1 {{PLURAL:$1|día|días}}."
+}

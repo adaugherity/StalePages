@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe"
+		]
+	},
+	"stalepages": "Pâges dèpassâs",
+	"stalepages-desc": "Fât una [[Special:Stalepages|lista de les pâges]] qu’ont pas étâ changiês dèrriérement.",
+	"stalepages-summary": "O est una lista de pâges qu’ont pas étâ changiês dês $1 jorn{{PLURAL:$1||s}}."
+}

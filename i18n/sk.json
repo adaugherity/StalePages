@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84"
+		]
+	},
+	"stalepages": "Neaktívne stránky",
+	"stalepages-desc": "Vytrvára [[Special:Stalepages|zoznam stránok]], ktoré neboli v poslednej dobe upravované",
+	"stalepages-summary": "Toto je zoznam stránok, ktoré neboli upravované aspoň $1 {{PLURAL:$1|deň|dni|dní}}."
+}

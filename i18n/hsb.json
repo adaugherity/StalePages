@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"stalepages": "spadnjene strony",
+	"stalepages-desc": "Wutworja [[Special:Stalepages|lisćinu stronow]], kotrež tuchwilu njebuchu wobdźěłane.",
+	"stalepages-summary": "To je lisćina stronow, kotrež njebuchu za {{PLURAL:$1|posledni $1 dźeń|poslednjeju $1 dnjow|posdlednje $1 dny|poslednich $1 dnjow}} změnjene."
+}

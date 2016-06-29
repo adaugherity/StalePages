@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vinhtantran"
+		]
+	},
+	"stalepages": "Các trang cũ",
+	"stalepages-desc": "Tạo [[Special:Stalepages|danh sách trang]] lâu rồi không được sửa đổi",
+	"stalepages-summary": "Đây là danh sách các trang chưa được sửa đổi trong $1 {{PLURAL:$1|ngày|ngày}} qua."
+}

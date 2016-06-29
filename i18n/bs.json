@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"stalepages": "Neuređivane stranice",
+	"stalepages-desc": "Generiše [[Special:Stalepages|spisak stranica]] koje nisu dugo uređivane",
+	"stalepages-summary": "Ovo je spisak stranica koje nisu uređivane {{PLURAL:$1|prethodni $1 dan|prethodna $1 dana|prethodnih $1 dana}}."
+}

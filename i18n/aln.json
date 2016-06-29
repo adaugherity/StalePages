@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mdupont"
+		]
+	},
+	"stalepages": "Stale faqe",
+	"stalepages-desc": "Gjeneron një [[Special:Stalepages|Lista e faqeve]] që nuk janë redaktuar kohët e fundit",
+	"stalepages-summary": "Kjo është një listë e faqeve që nuk janë edituar në fundit $1 {{PLURAL:$1|ditë|ditëve}}."
+}

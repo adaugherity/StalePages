@@ -18,10 +18,9 @@ $wgExtensionCredits['specialpage'][] = array(
 	'version'        => '0.8'
 );
 
-$dir = dirname( __FILE__ ) . '/';
-$wgExtensionMessagesFiles['Stalepages'] = $dir . 'StalePages.i18n.php';
-$wgExtensionMessagesFiles['StalepagesAlias'] = $dir . 'StalePages.alias.php';
-$wgAutoloadClasses['Stalepages'] = $dir . 'StalePages_body.php';
+$wgMessagesDirs['Stalepages'] = __DIR__ . '/i18n';
+$wgExtensionMessagesFiles['StalepagesAlias'] = __DIR__ . '/StalePages.alias.php';
+$wgAutoloadClasses['Stalepages'] = __DIR__ . '/StalePages_body.php';
 $wgSpecialPages['StalePages'] = 'Stalepages';
 
 // If the last revision of a page is older than this number of days,

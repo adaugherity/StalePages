@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"stalepages": "صفحات متجمدة",
+	"stalepages-desc": "يولد [[Special:Stalepages|قائمة بالصفحات]] التى لم يتم تعديلها مؤخرا",
+	"stalepages-summary": "هذه قائمة بالصفحات التى لم يتم تعديلها فى آخر $1 {{PLURAL:$1|يوم|يوم}}."
+}

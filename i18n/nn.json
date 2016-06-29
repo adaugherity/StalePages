@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dittaeva",
+			"Frokor",
+			"Harald Khan",
+			"Njardarlogar"
+		]
+	},
+	"stalepages": "Forelda sider",
+	"stalepages-desc": "Oppretter ei [[Special:Stalepages|liste over sider]] som ikkje er endra i det siste",
+	"stalepages-summary": "Dette er ei liste over sider som ikkje har blitt endra {{PLURAL:$1|den siste dagen|dei siste $1 dagane}}."
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"stalepages": "Stare boki",
+	"stalepages-desc": "Napórajo [[Special:Stalepages|lisćinu bokow]], kótarež njejsu se w slědnem casu wobźěłali",
+	"stalepages-summary": "Toś to jo lisćina bokow, kótarež njesu se za {{PLURAL:$1|slědny źeń|slědnej $1 dnja|slědne $1 dny|slědnych $1 dnjow}} wobźěłali."
+}
