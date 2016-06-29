@@ -6,5 +6,5 @@
 	},
 	"stalepages": "Vergeten pagina's",
 	"stalepages-desc": "Geeft een [[Special:Stalepages|lijst met pagina's]] weer die recent niet zijn bewerkt",
-	"stalepages-summary": "Dit is een lijst van pagina's die niet bewerkt zijn in de afgelopen {{PLURAL:$1|dag|$1 dagen}}."
+	"stalepages-header": "Dit is een lijst van pagina's die niet bewerkt zijn in de afgelopen {{PLURAL:$1|dag|$1 dagen}}."
 }

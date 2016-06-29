@@ -6,5 +6,5 @@
 	},
 	"stalepages": "Mga pahinang bilasa (hindi na sariwa)",
 	"stalepages-desc": "Gumagawa ng isang [[Special:Stalepages|talaan ng mga pahina]]ng walang kamakailang pagbabago",
-	"stalepages-summary": "Isa itong talaan ng mga pahinang hindi nagkaroon ng pagbabago (pamamatnugot) sa loob ng huling $1 {{PLURAL:$1|araw|mga araw}}."
+	"stalepages-header": "Isa itong talaan ng mga pahinang hindi nagkaroon ng pagbabago (pamamatnugot) sa loob ng huling $1 {{PLURAL:$1|araw|mga araw}}."
 }

@@ -7,5 +7,5 @@
 	},
 	"stalepages": "Eski sayfalar",
 	"stalepages-desc": "Yakın zamanda düzenleme yapılmamış olan [[Special:Stalepages|sayfaların bir listesini]] oluşturur",
-	"stalepages-summary": "Bu, son {{PLURAL:$1|günde|günde}} düzenleme yapılmamış sayfaların bir listesidir."
+	"stalepages-header": "Bu, son {{PLURAL:$1|günde|günde}} düzenleme yapılmamış sayfaların bir listesidir."
 }

@@ -6,5 +6,5 @@
 	},
 	"stalepages": "Pagine non modificate da molto tempo",
 	"stalepages-desc": "Genera un [[Special:Stalepages|elenco di pagine]] che non sono state modificate recentemente",
-	"stalepages-summary": "Di seguito sono elencate le pagine che non sono state modificate {{PLURAL:$1|nell'ultimo giorno|negli ultimi $1 giorni}}."
+	"stalepages-header": "Di seguito sono elencate le pagine che non sono state modificate {{PLURAL:$1|nell'ultimo giorno|negli ultimi $1 giorni}}."
 }

@@ -7,5 +7,5 @@
 	},
 	"stalepages": "Páxinas vellas",
 	"stalepages-desc": "Xera unha [[Special:Stalepages|lista de páxinas]] que non foron editadas recentemente",
-	"stalepages-summary": "Esta é unha lista coas páxinas que non foron editadas {{PLURAL:$1|no último día|nos últimos $1 días}}."
+	"stalepages-header": "Esta é unha lista coas páxinas que non foron editadas {{PLURAL:$1|no último día|nos últimos $1 días}}."
 }

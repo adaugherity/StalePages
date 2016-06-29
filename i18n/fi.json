@@ -9,5 +9,5 @@
 	},
 	"stalepages": "Huomiotta jääneet sivut",
 	"stalepages-desc": "Luo [[Special:Stalepages|luettelon sivuista]], joita ei ole muokattu hetkeen.",
-	"stalepages-summary": "Tämä on lista sivuista, joita ei ole muokattu viimeiseen $1 {{PLURAL:$1|päivään|päivään}}."
+	"stalepages-header": "Tämä on lista sivuista, joita ei ole muokattu viimeiseen $1 {{PLURAL:$1|päivään|päivään}}."
 }

@@ -7,5 +7,5 @@
 	},
 	"stalepages": "古くなったページ",
 	"stalepages-desc": "最近編集されていない[[Special:Stalepages|ページの一覧]]を生成する",
-	"stalepages-summary": "これは過去$1{{PLURAL:$1|日|日間}}に編集されていないページの一覧です。"
+	"stalepages-header": "これは過去$1{{PLURAL:$1|日|日間}}に編集されていないページの一覧です。"
 }

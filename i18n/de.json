@@ -6,5 +6,5 @@
 	},
 	"stalepages": "Alte Seiten",
 	"stalepages-desc": "Erzeugt eine [[Special:Stalepages|Liste von Seiten]], die seit einer Weile nicht mehr bearbeitet wurden",
-	"stalepages-summary": "Dies ist eine Liste von Seiten, die {{PLURAL:$1|innerhalb der letzten 24 Stunden|in den letzten $1 Tagen}} nicht bearbeitet wurden."
+	"stalepages-header": "Dies ist eine Liste von Seiten, die {{PLURAL:$1|innerhalb der letzten 24 Stunden|in den letzten $1 Tagen}} nicht bearbeitet wurden."
 }

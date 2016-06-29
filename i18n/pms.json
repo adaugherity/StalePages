@@ -6,5 +6,5 @@
 	},
 	"stalepages": "Pàgine fërme",
 	"stalepages-desc": "A génera na [[Special:Stalepages|lista ëd pàgine]] che a son pa stàite modificà ëd ressent",
-	"stalepages-summary": "Sta sì a l'é na lista ëd pàgine che a son pa stàite modificà ant j'ùltim $1 {{PLURAL:$1|di|di}}."
+	"stalepages-header": "Sta sì a l'é na lista ëd pàgine che a son pa stàite modificà ant j'ùltim $1 {{PLURAL:$1|di|di}}."
 }

@@ -23,7 +23,7 @@ class Stalepages extends QueryPage
 
 	function getPageHeader() {
 		global $wgStalePagesDays;
-		return wfMsgExt( 'stalepages-summary', array( 'parse' ), $wgStalePagesDays );
+		return wfMessage( 'stalepages-header', $wgStalePagesDays )->parseAsBlock();
 	}
 
 	function isSyndicated() { return false; }
@@ -53,7 +53,7 @@ class Stalepages extends QueryPage
 
 		$d = $wgLang->timeanddate( wfTimestamp( TS_MW, $result->value ), true );
 		$title = Title::makeTitle( $result->namespace, $result->title );
-		$link = $skin->makeKnownLinkObj( $title, htmlspecialchars( $wgContLang->convert( $title->getPrefixedText() ) ) );
+		$link = Linker::linkKnown( $title, htmlspecialchars( $wgContLang->convert( $title->getPrefixedText() ) ) );
 		return $wgLang->specialList( $link, $d );
 	}
 }

@@ -7,5 +7,5 @@
 	},
 	"stalepages": "Orrialde zaharkituak",
 	"stalepages-desc": "Berriki editatu ez diren [[Special:Stalepages|orrialdeen zerrenda]] sortzen du",
-	"stalepages-summary": "Azken {{PLURAL:$1|egunean|$1 egunetan}} aldatu gabeko orrialdeak zerrendatzen dira hemen."
+	"stalepages-header": "Azken {{PLURAL:$1|egunean|$1 egunetan}} aldatu gabeko orrialdeak zerrendatzen dira hemen."
 }

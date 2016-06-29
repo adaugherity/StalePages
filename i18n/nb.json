@@ -4,5 +4,5 @@
 	},
 	"stalepages": "Foreldede sider",
 	"stalepages-desc": "Skaper en [[Special:Stalepages|liste over sider]] som ikke har blitt redigert i det siste",
-	"stalepages-summary": "Dette er en liste over sider som ikke har blitt redigert {{PLURAL:$1|dette døgnet|de siste $1 dagene}}."
+	"stalepages-header": "Dette er en liste over sider som ikke har blitt redigert {{PLURAL:$1|dette døgnet|de siste $1 dagene}}."
 }
