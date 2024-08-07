@@ -11,6 +11,9 @@
  * @ingroup Extensions
  * @author Tim Laqua <t.laqua@gmail.com>
  */
+
+defined('DB_REPLICA') or define('DB_REPLICA', DB_SLAVE);
+
 class Stalepages extends QueryPage
 {
 	public function __construct( $name = 'StalePages' ) {
@@ -31,7 +34,7 @@ class Stalepages extends QueryPage
 	function getQueryInfo() {
 		global $wgStalePagesDays;
 		$date = mktime() - ( 60 * 60 * 24 * $wgStalePagesDays ); //randomish
-		$db = wfGetDB( DB_SLAVE );
+		$db = wfGetDB( DB_REPLICA );
 		$dateString = $db->timestamp($date);
 		return array(
 			'tables' => array( 'page', 'revision' ),
